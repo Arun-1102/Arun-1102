@@ -5,16 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/arunkumar-g-84b2b42b8
 - 😄 Pronouns: he/him
   ![image](https://github.com/user-attachments/assets/2f4ce93d-da24-4f92-86ec-1589dc5443e1)
-  Hands on tools !!
 
-Java  React  Material UI  CSS  HTML  JavaScript  Firebase  Gatsby  MySQL  Git 
-
-
-Gowthamwebdev's Streak
-
-Gowthamwebdev's Stats
-
-Gowthamwebdev's Top Languages
 
 
 <!---
