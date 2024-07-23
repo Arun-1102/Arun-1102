@@ -8,7 +8,7 @@
 <br/>
 <hr/>
 
-<b>Hands on tools !!</b>
+<b>Efficient in !!</b>
 <br/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;<t/>
@@ -17,6 +17,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<t/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div> <br/><br/>
+### Tools I Have Used
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<br/><br/>
 
 ![Arunkumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arun-1102&theme=vue-dark&hide_border=false)
 
