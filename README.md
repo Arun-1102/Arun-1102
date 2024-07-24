@@ -1,13 +1,13 @@
 -> 👋Hi there myself Arunkumar G. <br>
 ->🧠I am an emerging web developer.  
 -> 🪄I have gained some basic knowledge in the field of front end develpment and Java.  
--> 🎯Currently learning Data Structres and Algorithm in Java. ## About Me
+-> 🎯Currently learning Data Structres and Algorithm in Java. 
 ## Objective
 I'm Arunkumar G, a passionate programmer with a strong interest in software development and data structures & algorithms. I enjoy solving complex problems and learning new technologies. Currently, I'm working on various projects that challenge my skills and help me grow as a developer.
 
 ## Education
 
-- **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
+- **Studying** Bachelor of Technology in Information Technology - Nandha College of Technology(Anna University), Year - 2025
 - High School - Shree Valli Matric Higher School, Year - 2021
 
 ## Contact Me
