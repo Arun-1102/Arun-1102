@@ -1,7 +1,22 @@
 -> 👋Hi there myself Arunkumar G. <br>
 ->🧠I am an emerging web developer.  
 -> 🪄I have gained some basic knowledge in the field of front end develpment and Java.  
--> 🎯Currently learning Data Structres and Algorithm in Java.  
+-> 🎯Currently learning Data Structres and Algorithm in Java. ## About Me
+
+I'm Abinav, a passionate programmer with a strong interest in software development and data structures & algorithms. I enjoy solving complex problems and learning new technologies. Currently, I'm working on various projects that challenge my skills and help me grow as a developer.
+
+## Education
+
+- **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
+- High School - Erode Hindu Kalvi Nilayam - Matric HS School, Year - 2021
+
+## Contact Me
+
+Feel free to reach out to me :
+
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabinav37@gmail.com)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theabinav/)
+  
 <div id="header" align="flex-start">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
