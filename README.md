@@ -2,7 +2,7 @@
 ->🧠I am an emerging web developer.  
 -> 🪄I have gained some basic knowledge in the field of front end develpment and Java.  
 -> 🎯Currently learning Data Structres and Algorithm in Java. ## About Me
-
+## Objective
 I'm Arunkumar G, a passionate programmer with a strong interest in software development and data structures & algorithms. I enjoy solving complex problems and learning new technologies. Currently, I'm working on various projects that challenge my skills and help me grow as a developer.
 
 ## Education
