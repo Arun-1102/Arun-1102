@@ -1,5 +1,5 @@
 -> 👋Hi there myself Arunkumar G. <br>
-->🧠I am an emerging web developer.  
+->🧠I am an emerging Java developer.  
 -> 🪄I have gained some basic knowledge in the field of front end develpment and Java.  
 -> 🎯Currently learning Data Structres and Algorithm in Java. 
 ## Objective
